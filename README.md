@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Krit.
 - 💞️ I’m looking to collaborate on Data&AI
-- 📫 How to reach me : krit.kamtuo@gmail.com
 
 <!---
 kritcs18/kritcs18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
